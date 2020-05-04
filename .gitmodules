@@ -1,0 +1,5 @@
+[submodule "nixpkgs"]
+	path = nixpkgs
+	url = https://github.com/alexarice/nixpkgs
+	branch = agda-rework
+	shallow = true

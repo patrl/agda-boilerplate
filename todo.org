@@ -1,0 +1,6 @@
+#+TITLE: TODO
+
+* Set ~NIX_PATH~
+
+Use ~direnv~ to set the ~NIX_PATH~ environment variable to the ~agda-rework~ branch of ~nixpkgs~.
+* Set up agda emacs mode
